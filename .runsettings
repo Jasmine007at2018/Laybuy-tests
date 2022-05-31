@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RunSettings>
+	<RunConfiguration>
+		<EnvironmentVariables>
+			<!-- List of environment variables we want to set-->
+			<API_URL>https://jsonplaceholder.typicode.com</API_URL>
+			<Web_URL>https://www.laybuy.com/nz/</Web_URL>
+			<SELENIUM_BROWSER>chrome</SELENIUM_BROWSER>
+			<SELENIUM_HEADLESS>true</SELENIUM_HEADLESS>
+			<SELENIUM_WAIT>5</SELENIUM_WAIT>
+		</EnvironmentVariables>
+		<CollectSourceInformation>True</CollectSourceInformation>
+	</RunConfiguration>
+</RunSettings>
